@@ -86,3 +86,10 @@ You need to need to google search the website that you wann pull news from and a
 
 you then add that site under url.
 
+If you need any more info on how to install the mirror or any fo the modules used here:
+https://github.com/TeraTech/MMM-WiFiPassword
+https://github.com/matteodanelli/MMM-cryptocurrency
+https://docs.magicmirror.builders/getting-started/installation.html
+
+and if you want to install any other modules:
+https://github.com/MichMich/MagicMirror/wiki/3rd-party-modules#utility--iot--3rd-party--integration
