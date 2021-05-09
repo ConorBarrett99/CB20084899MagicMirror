@@ -61,7 +61,8 @@ for the cryptocurrency:
 			}
 		},
     
-    For the "Your API Key" you need to make a CoinMarketCap Account. There you will be able to get your api key and input into the config.js file.
+    For the "Your API Key" you need to make a CoinMarketCap Account. 
+    There you will be able to get your api key and input into the config.js file.
     
 
 for the WifI:
@@ -75,7 +76,8 @@ for the WifI:
       		}
   		},
       
-     for the "Your NetworkName" and the "Your network Password". You just need to enter you network info.
+     for the "Your NetworkName" and the "Your network Password". 
+     You just need to enter you network info.
 
 --------------------------------
 
