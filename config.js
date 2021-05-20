@@ -46,6 +46,10 @@ var config = {
 			module: "clock",
 			position: "top_left"
 		},
+		{
+			module:"sea-temp",
+			position:"top"
+		},
 		
 		{
 			module: "compliments",
